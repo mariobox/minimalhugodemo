@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>http://mariosanchez.org/minimalhugosite/</link>
+    <link>http://mariosanchez.org/minimalhugodemo/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 26 Dec 2015 16:39:10 -0500</lastBuildDate>
-    <atom:link href="http://mariosanchez.org/minimalhugosite/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://mariosanchez.org/minimalhugodemo/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Post 4 Title</title>
-      <link>http://mariosanchez.org/minimalhugosite/post/post4/</link>
+      <link>http://mariosanchez.org/minimalhugodemo/post/post4/</link>
       <pubDate>Sat, 26 Dec 2015 16:39:10 -0500</pubDate>
       
-      <guid>http://mariosanchez.org/minimalhugosite/post/post4/</guid>
+      <guid>http://mariosanchez.org/minimalhugodemo/post/post4/</guid>
       <description>&lt;p&gt;This is some content.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Post 3 Title</title>
-      <link>http://mariosanchez.org/minimalhugosite/post/post3/</link>
+      <link>http://mariosanchez.org/minimalhugodemo/post/post3/</link>
       <pubDate>Thu, 24 Dec 2015 09:17:41 -0500</pubDate>
       
-      <guid>http://mariosanchez.org/minimalhugosite/post/post3/</guid>
+      <guid>http://mariosanchez.org/minimalhugodemo/post/post3/</guid>
       <description>&lt;p&gt;This is a third blog post.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>About</title>
-      <link>http://mariosanchez.org/minimalhugosite/about</link>
+      <link>http://mariosanchez.org/minimalhugodemo/about</link>
       <pubDate>Tue, 22 Dec 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://mariosanchez.org/minimalhugosite/about</guid>
+      <guid>http://mariosanchez.org/minimalhugodemo/about</guid>
       <description>&lt;p&gt;This is the page where you can write something about yourself.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>http://mariosanchez.org/minimalhugosite/contact/</link>
+      <link>http://mariosanchez.org/minimalhugodemo/contact/</link>
       <pubDate>Tue, 22 Dec 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://mariosanchez.org/minimalhugosite/contact/</guid>
+      <guid>http://mariosanchez.org/minimalhugodemo/contact/</guid>
       <description>&lt;p&gt;This is where you write your contact information:&lt;/p&gt;
 
 &lt;p&gt;owner@owner.org&lt;/p&gt;
@@ -57,20 +57,20 @@
     
     <item>
       <title>Post 2 Title</title>
-      <link>http://mariosanchez.org/minimalhugosite/post/post2/</link>
+      <link>http://mariosanchez.org/minimalhugodemo/post/post2/</link>
       <pubDate>Fri, 30 Jan 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://mariosanchez.org/minimalhugosite/post/post2/</guid>
+      <guid>http://mariosanchez.org/minimalhugodemo/post/post2/</guid>
       <description>&lt;p&gt;Write some content for your second post.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Post 1 Title</title>
-      <link>http://mariosanchez.org/minimalhugosite/post/post1/</link>
+      <link>http://mariosanchez.org/minimalhugodemo/post/post1/</link>
       <pubDate>Mon, 22 Dec 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://mariosanchez.org/minimalhugosite/post/post1/</guid>
+      <guid>http://mariosanchez.org/minimalhugodemo/post/post1/</guid>
       <description>&lt;p&gt;Write some content for your first post.&lt;/p&gt;
 </description>
     </item>
